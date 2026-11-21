@@ -7,7 +7,7 @@
 
 ## Supported Versions
 
-### Luva branches
+### Teardown Luva branches
 
 > [!NOTE]
 > :white_check_mark: - Full support\
@@ -15,26 +15,27 @@
 > TEMP - Temporary support (beta versions etc.)\
 > :x: - No support
 
-| Branch | Version | Support |
+| Branch | Version | Luva version | Support |
 | --- | --- | :---: |
-| Official | 0.1.0-beta-1.0.0 | TEMP |
+| Official | 0.0-beta-x | 0.0-beta-1.x | TEMP |
 
 ### Lua versions
 
 | Lua Version | Luva branches |
 | --- | --- |
 | Lua 5.1 | Official |
-| Lua 5.2 | Official |
-| Lua 5.3 | Official |
-| Lua 5.4 | Official |
-| Lua 5.5 | ? |
+| Lua JIT | - |
+| Lua 5.2 | - |
+| Lua 5.3 | - |
+| Lua 5.4 | - |
+| Lua 5.5 | - |
 
 
 ## Reporting a vulnerability
 
 Report any problems on:
 - [Discord]() - coming soon ...
-- [Discussions](https://github.com/Aleq777/Luva/discussions)
+- [Discussions](https://github.com/Aleq777/Teardown-Luva/discussions)
 
 > [!IMPORTANT]
 > You can expect to receive feedback in 1 to 7 days.\
