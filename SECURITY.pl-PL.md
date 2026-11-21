@@ -21,7 +21,7 @@
 
 ### Wersje Lua
 
-| Wersje Lua | Branche Luva |
+| Wersje Lua | Branche Teardown Luva |
 | --- | --- |
 | Lua 5.1 | Official |
 | Lua JIT | - |
