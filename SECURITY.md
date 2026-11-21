@@ -21,7 +21,7 @@
 
 ### Lua versions
 
-| Lua Version | Luva branches |
+| Lua Version | Teardown Luva branches |
 | --- | --- |
 | Lua 5.1 | Official |
 | Lua JIT | - |
