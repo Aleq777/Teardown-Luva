@@ -17,7 +17,7 @@
 
 | Branch | Version | Luva version | Support |
 | --- | --- | :---: |
-| Official | 0.0-beta-x | 0.0-beta-1.x | TEMP |
+| Official | 0.0-beta-1.4.0 | 0.0-beta-1.4.0 | TEMP |
 
 ### Lua versions
 
@@ -30,6 +30,7 @@
 | Lua 5.4 | - |
 | Lua 5.5 | - |
 
+<h6>Teardown API (1 and 2) are only for Lua 5.1</h6>
 
 ## Reporting a vulnerability
 

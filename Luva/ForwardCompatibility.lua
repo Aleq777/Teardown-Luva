@@ -1,9 +1,4 @@
 
-import "Luva/Config.lua"
-
-if setmetatable == nil or getmetatable == nil or dofile == nil then
-    error ("Luva framework environmental requirements haven't met: metatables, dofile")
-end
 
 if not table.unpack then
     table.unpack = unpack

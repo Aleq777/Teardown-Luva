@@ -15,6 +15,12 @@
 ---| "distinct_file" # Filename that exists only in your mod (in case you don't know nor don't want to use mod ID)
 ---| "mod_id" # Steam workshop mod's ID
 
+
+if setmetatable == nil or getmetatable == nil or dofile == nil then
+    error ("Luva framework environmental requirements haven't met: metatables, dofile")
+end
+
+
 ---@diagnostic disable-next-line : undefined-global
 #include "Luva/Config.lua"
 
@@ -24,9 +30,11 @@ Luva = { }
 --- Luva engine ingredients
 _LUVA = {
     ---@type table<Luva.Lang.Identifier, string>
-    Errors = { },
     ---@package
-    Modules = { }
+    Modules = { },
+
+    ---@type string[]
+    Modes = { },
 }
 
 

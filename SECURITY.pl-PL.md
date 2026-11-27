@@ -17,7 +17,7 @@
 
 | Branch | Wersja | Wersja Luvy | Wsparcie |
 | --- | --- | :---: |
-| Official | 0.0-beta-x | 0.0-beta-1.x | TEMP |
+| Official | 0.0-beta-1.4.0 | 0.0-beta-1.4.0 | TEMP |
 
 ### Wersje Lua
 
@@ -29,6 +29,8 @@
 | Lua 5.3 | - |
 | Lua 5.4 | - |
 | Lua 5.5 | - |
+
+<h6>Teardown API (1 oraz 2) jest tylko na Lua 5.1</h6>
 
 ## Zgłaszanie problemu
 
